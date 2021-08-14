@@ -1,0 +1,12 @@
+{
+
+"type": "smelting",
+"group": "troll",
+
+"ingredient": {
+	"item": "nether_star"
+},
+"result": "bedrock",
+"cookingtime": 10
+
+}
