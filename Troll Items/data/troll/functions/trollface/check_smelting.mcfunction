@@ -1,0 +1,2 @@
+execute as @a[nbt={Inventory:[{id:"minecraft:bedrock"}]}] run give @s minecraft:player_head{display:{Name:"{\"text\":\"Trollface\"}"},SkullOwner:{Id:[I;-605358937,-1693626859,-1471394561,690062840],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGY3ZjQwYTg2YmVlOGUyMWE1NTM0MDg1NmE4NjIxYWNhNDk1NjczYWExN2JmZGUxOGQzYjdhYTYxYjQyYyJ9fX0="}]}}} 1
+execute as @a[nbt={Inventory:[{id:"minecraft:bedrock"}]}] run clear @s bedrock 1
